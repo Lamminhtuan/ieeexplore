@@ -29,4 +29,8 @@ for j in range(1, pages + 1):
 dict['Title'].extend(items)
 df = pd.DataFrame(dict)
 df.to_csv('output.csv')
+<<<<<<< HEAD
 dv.close()
+=======
+dv.close()
+>>>>>>> 65a9f3f (Initial commit)
