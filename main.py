@@ -13,6 +13,7 @@ author = dv.find_element(By.XPATH, '/html/body/div[5]/div/div/div/div[3]/div/xpl
 print(f'Author: {author}')
 num = dv.find_element(By.XPATH, '/html/body/div[5]/div/div/div/div[3]/div/xpl-root/div/xpl-search-results/xpl-author-profile/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]').text
 num = int(num)
+print(f'Publications: {num}')
 pages = num // 25 + 1
 items = []
 dict = {'Title': []}

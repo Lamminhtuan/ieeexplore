@@ -2159,3 +2159,16 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1648273363976	geckodriver	INFO	Listening on 127.0.0.1:51775
+1648273367025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51776" "-no-remote" "-profile" "C:\\Users\\84981\\AppData\\Local\\Temp\\rust_mozprofilemBjlfQ"
+1648273367271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\84981\\AppData\\Local\\Temp\\rust_mozprofilemBjlfQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51776/devtools/browser/484e33ae-873f-4b59-9b53-47a2e6c5a455
+1648273368442	Marionette	INFO	Listening on port 51786
+1648273368546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ieeexplore.ieee.org/assets/js/vendor.js?cv=20220308_000001, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 6314 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 1933 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 4798 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
