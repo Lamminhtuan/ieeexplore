@@ -19,7 +19,6 @@ dict = {'Title': []}
 for i in range(1, pages + 1):
     url = "https://ieeexplore.ieee.org/author/"+id+"?searchWithin=%22Author%20Ids%22:"+id+"&history=no&sortType=newest&highlight=true&returnFacets=ALL&returnType=SEARCH&pageNumber={}".format(i)
     dv.get(url)
-    # Nếu bị lỗi thì tăng giá trị time.sleep() để chờ trang load đầy đủ
     time.sleep(delay)
     paper = dv.find_elements(By.CLASS_NAME, 'List-results-items')
     for j, item in enumerate(paper, start=3):
