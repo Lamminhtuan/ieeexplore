@@ -2080,3 +2080,17 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1648273007383	geckodriver	INFO	Listening on 127.0.0.1:50072
+1648273010406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50073" "-no-remote" "-profile" "C:\\Users\\84981\\AppData\\Local\\Temp\\rust_mozprofile7xI2a0"
+1648273010667	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\84981\\AppData\\Local\\Temp\\rust_mozprofile7xI2a0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50073/devtools/browser/d2928a66-2fc7-495a-9da4-252c0f0cbbcb
+1648273012004	Marionette	INFO	Listening on port 50081
+1648273012447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ieeexplore.ieee.org/assets/js/vendor.js?cv=20220308_000001, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 4972 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648273025603	Marionette	INFO	Stopped listening on port 50081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
