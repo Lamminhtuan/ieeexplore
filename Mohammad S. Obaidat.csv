@@ -1,0 +1,496 @@
+,Title
+0,Authenticated Key Agreement Scheme With User Anonymity and Untraceability for 5G-Enabled Softwarized Industrial Cyber-Physical Systems
+1,Edge-Learning-Based Hierarchical Prefetching for Collaborative Information Streaming in Social IoT Systems
+2,Secure Edge-Aided Computations for Social Internet-of-Things Systems
+3,PAMI-Anonymous Password Authentication Protocol for Medical Internet of Things
+4,TruClu: Trust Based Clustering Mechanism in Software Defined Vehicular Networks
+5,Construction of Lightweight Content key Distribution Framework for DRM systems
+6,Optimal Resource Allocation for Quality-of-Service in D2D Communication Underlying Imperfect CSI
+7,Location based Routing in Opportunistic Networks using Cascade Learning
+8,Machine Learning-based Currency Information Retrieval for Aiding the Visually Impaired People
+9,SCHOOL: Spectrum Allocation for D2D Communication Enabled HetNet using Stackelberg and Coalition Formation Game
+10,Blockchain Enabled Electronics Medical System Proposed Framework with Research Directions
+11,Performance Analysis of the Spectrum Access Strategies in Cognitive Radio Networks
+12,Efficient and Secure Design of ID-3PAKA Protocol Using ECC
+13,An Effective Fair Off-Line Electronic Cash Protocol using Extended Chaotic Maps with Anonymity Revoking Trustee
+14,XAI-AV: Explainable Artificial Intelligence for Trust Management in Autonomous Vehicles
+15,A Robust Anonymous Authentication Scheme using Biometrics for Digital Rights Management System
+16,Privacy Preserving Location-based Content Distribution Framework for Digital Rights Management Systems
+17,Capsule: All you need to know about Tactile Internet in a Nutshell
+18,Classification of Soil Images using Convolution Neural Networks
+19,A Federated Reinforcement Learning Framework for Incumbent Technologies in Beyond 5G Networks
+20,HTFM: Hybrid Traffic-Flow Forecasting Model for Intelligent Vehicular Ad hoc Networks
+21,Joint User Pairing and Resource Allocation for SWIPT-Enabled Cooperative D2D Communications
+22,SPCS-IoTEH: Secure Privacy-Preserving Communication Scheme for IoT-Enabled e-Health Applications
+23,Blockchain Based Architecture and Solution for Secure Digital Payment System
+24,Encrypted Medical Image Storage in DNA Domain
+25,BCovX: Blockchain-based COVID Diagnosis Scheme using Chest X-Ray for Isolated Location
+26,MedBlock: An AI-enabled and Blockchain-driven Medical Healthcare System for COVID-19
+27,Internet of UAVs Based Remote Health Monitoring: An Online eHealth System
+28,Dynamic Multiworkflow Deadline and Budget Constrained Scheduling in Heterogeneous Distributed Systems
+29,An Unlinkable Authenticated Key Agreement With Collusion Resistant for VANETs
+30,Resource Scheduling Based on Priority Ladders for Multiple Performance Requirements in Wireless Body Area Networks
+31,On the Security of a Lightweight Privacy-Preserving Authentication Protocol for VANETs
+32,On the Security of Authenticated Key Agreement Scheme for Fog-driven IoT Healthcare System
+33,Security Analysis on an Efficient and Provably Secure Authenticated Key Agreement Protocol for Fog-Based Vehicular Ad-Hoc Networks
+34,The Role of Internet of Things to Control the Outbreak of COVID-19 Pandemic
+35,Novel Multiparameter Detection and Recovery Technique for Diverse Network Systems
+36,"An Efficient, Robust, and Lightweight Subtree-Based Three-Factor Authentication Procedure for Large-Scale DWSN in Random Oracle"
+37,Importance-Different Charging Scheduling Based on Matroid Theory for Wireless Rechargeable Sensor Networks
+38,Network Traffic Prediction in Industrial Internet of Things Backbone Networks: A Multitask Learning Mechanism
+39,Contact Tracing Incentive for COVID-19 and Other Pandemic Diseases From a Crowdsourcing Perspective
+40,A Lightweight Provably Secure Digital Short-Signature Technique Using Extended Chaotic Maps for Human-Centered IoT Systems
+41,AI-Enabled Blockchain-Based Access Control for Malicious Attacks Detection and Mitigation in IoE
+42,An Efficient Container Management Scheme for Resource-Constrained Intelligent IoT Devices
+43,Comment on “Lightweight Secure Message Broadcasting Protocol for Vehicle-to-Vehicle Communication”
+44,New Clustering-Based Semantic Service Selection and User Preferential Model
+45,Movement-Based Solutions to Energy Limitation in Wireless Sensor Networks: State of the Art and Future Trends
+46,A Strategy to Alleviate Rush Hour Traffics in Urban Areas Based on School-Trip Commute Information
+47,LAAC: Lightweight Lattice-Based Authentication and Access Control Protocol for E-Health Systems in IoT Environments
+48,Efficient Identity-Based Distributed Decryption Scheme for Electronic Personal Health Record Sharing System
+49,A Provably Secure and Lightweight Identity-Based Two-Party Authenticated Key Agreement Protocol for IIoT Environments
+50,A Reinforcement Learning-Based Network Traffic Prediction Mechanism in Intelligent Internet of Things
+51,Utility-Aware Charging Scheduling for Multiple Mobile Chargers in Large-Scale Wireless Rechargeable Sensor Networks
+52,URJA: Usage Jammer as a Resource Allocation for Secure Transmission in a CR-NOMA-Based 5G Femtocell System
+53,Computational Efficient Authenticated Digital Content Distribution Frameworks for DRM Systems: Review and Outlook
+54,Chaos-Based Content Distribution Framework for Digital Rights Management System
+55,SFEEC: Provably Secure Signcryption-Based Big Data Security Framework for Energy-Efficient Computing Environment
+56,IoT-Enabled Light Intensity-Controlled Seamless Highway Lighting System
+57,Extending Network Lifetime for Wireless Rechargeable Sensor Network Systems Through Partial Charge
+58,Joint Computing and Caching in 5G-Envisioned Internet of Vehicles: A Deep Reinforcement Learning-Based Traffic Control System
+59,DiLSe: Lattice-Based Secure and Dependable Data Dissemination Scheme for Social Internet of Vehicles
+60,Value-driven Cache Replacement Strategy in Mobile Edge Computing
+61,SAC-FIIoT: Secure Access Control Scheme for Fog-Based Industrial Internet of Things
+62,Activity-Aware Data Rate Tuning in Wireless Body Area Networks
+63,Fast Local Map Construction of Robot Using Semantic Priors
+64,A Post Dynamic Clustering Approach for Classification-based Image Retrieval
+65,A Novel Approach to Predict the Real Time Sentimental Analysis by Naive Bayes & RNN Algorithm during the COVID Pandemic in UAE
+66,HeaL: A blockchain-envisioned signcryption scheme for healthcare IoT ecosystems
+67,Parallelization of Global Sequence Alignment on Graphics Processing Unit
+68,Interplay of Machine Learning and Software Engineering for Quality Estimations
+69,Research on Robot's Indoor Object Finding Strategy Based on Semantic Relatedness
+70,Trans-DF: A Transfer Learning-based end-to-end Deepfake Detector
+71,On the Importance of the DCT Phase for Image Steganography Schemes
+72,A Secure Authentication Mechanism for Wireless Sensor Networks
+73,An Efficient Robust Lightweight Remote User Authentication Protocol using Extended Chaotic Maps
+74,BITS: A Blockchain-driven Intelligent Scheme for Telesurgery System
+75,BDoTs: Blockchain-based Evaluation Scheme for Online Teaching under COVID-19 Environment
+76,New Efficient QERPKC based on Partial Discrete Logarithm Problem
+77,Adaptive Software Defined Node Deployment for Green Internet of Things
+78,CPNDD:Content Placement Approach in Content Centric Networking
+79,Towards Wearable Sensing Enabled Healthcare Framework for Elderly Patients
+80,Reinforcement Learning-Based Routing Protocol for Opportunistic Networks
+81,BUA: A Blockchain-based Unlinkable Authentication in VANETs
+82,SensOrch: QoS-Aware Resource Orchestration for Provisioning Sensors-as-a-Service
+83,Energy-efficient Collaborative Offloading for Multiplayer Games with Cache-Aided MEC
+84,A Lightweight Privacy-Preserving Authentication Protocol for VANETs
+85,Edge Computing Based Healthcare Systems: Enabling Decentralized Health Monitoring in Internet of Medical Things
+86,Automated Machine Learning: The New Wave of Machine Learning
+87,An Authenticated Key Exchange Protocol for Multi-Server Architecture in 5G Networks
+88,ORCID: Opportunistic Reconnectivity for Network Management in the Presence of Dumb Nodes in Wireless Sensor Networks
+89,Efficient and Provably Secure Multireceiver Signcryption Scheme for Multicast Communication in Edge Computing
+90,An Efficient Elliptic Curve Cryptography-Based Without Pairing KPABE for Internet of Things
+91,When Deep Reinforcement Learning Meets 5G-Enabled Vehicular Networks: A Distributed Offloading Framework for Traffic Big Data
+92,PFCBAS: Pairing Free and Provable Certificate-Based Aggregate Signature Scheme for the e-Healthcare Monitoring System
+93,An Adaptive Grid Frequency Support Mechanism for Energy Management in Cloud Data Centers
+94,Efficient and Secure Anonymous Authentication With Location Privacy for IoT-Based WBANs
+95,"MEGAN: Multipurpose Energy-Efficient, Adaptable, and Low-Cost Wireless Sensor Node for the Internet of Things"
+96,Intelligent Secure Ecosystem Based on Metaheuristic and Functional Link Neural Network for Edge of Things
+97,WmA-MiFN: A Weighted Majority and Auction Game Based Green Ultra-Dense Micro-Femtocell Network System
+98,Cache-Aware Computation Offloading in IoT Systems
+99,Loosely Coupled Cloud Robotic Framework for QoS-Driven Resource Allocation-Based Web Service Composition
+100,A Secure Three-Factor User Authentication Protocol With Forward Secrecy for Wireless Medical Sensor Network Systems
+101,False-Locality Attack Detection Using CNN in Named Data Networking
+102,Multi-Party Secure Collaborative Filtering for Recommendation Generation
+103,A Novel Multi-Path Anonymous Randomized Key Distribution Scheme for Geo Distributed Networks
+104,LSTM-Based Detection for Timing Attacks in Named Data Network
+105,Anomaly Detection Based on Spatio-Temporal and Sparse Features of Network Traffic in VANETs
+106,Traffic Measurement Optimization Based on Reinforcement Learning in Large-Scale IP Backbone Networks
+107,Secure Beamforming Design for MISO SWIPT Systems: An Indirectly Optimized Approach
+108,Two-Tier Ensemble Model for Demand Side Prediction in Smart Grid Environment
+109,AClog: Attack Chain Construction Based on Log Correlation
+110,DENSE: Dynamic Edge Node Selection for Safety-as-a-Service
+111,Quality of Service Optimization in an IoT-Driven Intelligent Transportation System
+112,A Novel Data Compression Technique Incorporated with Computer Offloading in RGB-D SLAM
+113,The School District Reorganization by Combining with Traffic Congestion Data
+114,An Efficient EUF-ID-CMA Secure Identity-based Short Signature Scheme using Discrete Logarithm
+115,A Secure Identity-based Deniable Authentication Protocol for MANETs
+116,Analysis of Authentication System Based on Keystroke Dynamics
+117,HaBiTs: Blockchain-based Telesurgery Framework for Healthcare 4.0
+118,BloHosT: Blockchain Enabled Smart Tourism and Hospitality Management
+119,WDM-MDM Silicon-Based Optical Switching for Data Center Networks
+120,DLRS: Deep Learning-Based Recommender System for Smart Healthcare Ecosystem
+121,Missing Value Imputations by Rule-Based Incomplete Data Fuzzy Modeling
+122,Fog Computing for Smart Grid Systems in the 5G Environment: Challenges and Solutions
+123,A New Scheme for IoT Service Function Chains Orchestration in SDN-IoT Network Systems
+124,Efficient Network Resource Preallocation on Demand in Multitenant Cloud Systems
+125,Edge Computing-Based Security Framework for Big Data Analytics in VANETs
+126,A New Detection and Prevention System for ARP Attacks Using Static Entry
+127,Resource-Optimized Multiarmed Bandit-Based Offload Path Selection in Edge UAV Swarms
+128,A Lightweight and Provably Secure Key Agreement System for a Smart Grid With Elliptic Curve Cryptography
+129,M-MEMHS: Modified Minimization of Error in Multihop System for Localization of Unknown Sensor Nodes
+130,Mobi-Flow: Mobility-Aware Adaptive Flow-Rule Placement in Software-Defined Access Network
+131,An Energy Sensitive Computation Offloading Strategy in Cloud Robotic Network Based on GA
+132,Service Degradability Supported by Forecasting System in Optical Data Center Networks
+133,LA-MHR: Learning Automata Based Multilevel Heterogeneous Routing for Opportunistic Shared Spectrum Access to Enhance Lifetime of WSN
+134,Comparative Study of Different Cost Functions Between Neighbors for Optimizing Energy Dissipation in WSN
+135,RILoD: Reduction of Information Loss in a WSN System in the Presence of Dumb Nodes
+136,Quality-Assured Secured Load Sharing in Mobile Cloud Networking Environment
+137,Secure Authentication Protocol for 5G Enabled IoT Network
+138,Optimal Secondary Users Selection for Cooperative Spectrum Sensing in Cognitive Radio Networks
+139,Data Consumption-Aware Load Forecasting Scheme for Smart Grid Systems
+140,DLopC: Data Locality Independency-Aware VM Clustering in Cloud Computing
+141,BHEEM: A Blockchain-Based Framework for Securing Electronic Health Records
+142,AdCaS: Adaptive Caching for Storage Space Analysis Using Content Centric Networking
+143,Base Station Oriented Multi Route Diversity Protocol for Wireless Sensor Networks
+144,Partial Charging Scheduling in Wireless Rechargeable Sensor Networks
+145,Appropriate Service Degradability for Virtualized Inter-Data-Center Optical Networks
+146,Graph-Based Symmetric Crypto-System for Data Confidentiality
+147,FS2RNN: Feature Selection Scheme for Web Spam Detection Using Recurrent Neural Networks
+148,DRUMS: Demand Response Management in a Smart City Using Deep Learning and SVR
+149,iDVSP: Intelligent Dynamic Virtual Sensor Provisioning in Sensor-Cloud Infrastructure
+150,Software Defined Network Based Fault Detection in Industrial Wireless Sensor Networks
+151,A Learning Automaton-Based Controller Placement Algorithm for Software-Defined Networks
+152,The Community Characteristic Based Controller Deployment Strategy for SDNs
+153,A QoS and Cost Aware Fault Tolerant Scheme Insult-Controller SDNs
+154,Adaptive Skip Graph Framework for Peer-to-Peer Networks: Search Time Complexity Analysis
+155,QAIR: Quality Assessment Scheme for Information Retrieval in IoT Infrastructures
+156,Performance Assessment of Dynamic Analysis Based Energy Estimation Tools
+157,SeDaTiVe: SDN-Enabled Deep Learning Architecture for Network Traffic Control in Vehicular Cyber-Physical Systems
+158,GTCCS: A Game Theoretical Collaborative Charging Scheduling for On-Demand Charging Architecture
+159,PAS: A Fair Game-Driven DBA Scheme for XG-PON Systems
+160,Spectrum Allocation in Next Generation Radio Networks using Emerging Nature-inspired Algorithms
+161,Wireless Sensor Enabled Breast Self-Examination Assistance to Detect Abnormality
+162,A Fingerprinting Technique for Identification of Wireless Devices
+163,Ensuring Privacy and Security in E- Health Records
+164,First Score Auction for Pricing-Based Resource Selection in Vehicular Cloud
+165,Context-Aware Middleware Architectural Framework for Intelligent Smart Grid Data Management
+166,Blind Signatures Based Secured E-Healthcare System
+167,Edge-Based Content Delivery for Providing QoE in Wireless Networks Using Quotient Filter
+168,Staged Incentive Mechanism for Mobile Crowd Sensing
+169,Deep Learning-Based Content Centric Data Dissemination Scheme for Internet of Vehicles
+170,A Distributed Efficient Algorithm for Self-Protection of Wireless Sensor Networks
+171,HyClass: Hybrid Classification Model for Anomaly Detection in Cloud Environment
+172,An Optimized and Secure Authentication Scheme for Vehicular Ad Hoc Networks
+173,An Active Updating Strategy for Caching Periodic Data in the Internet of Things
+174,Design for Architecture and Router of 3D Free-Space Optical Network-on-Chip
+175,Proactive Decision Based Handoff Scheme for Cognitive Radio Networks
+176,Efficient Multipath Routing Protocol with Quality of Service for Mobile Ad Hoc Networks
+177,The Internet of Things Service Recommendation Based on Tripartite Graph with Mass Diffusion
+178,Secure and Sustainable Load Balancing of Edge Data Centers in Fog Computing
+179,Border Surveillance With WSN Systems in a Distributed Manner
+180,QoS Aware Predictive Radio Resource Management Approach Based on MIH Protocol
+181,Situation-Aware Protocol Switching in Software-Defined Wireless Sensor Network Systems
+182,A TAS-Model-Based Algorithm for Rule Redundancy Detection and Scene Scheduling in Smart Home Systems
+183,A Cooperative Quality-Aware Service Access System for Social Internet of Vehicles
+184,DEMANDS: Distributed Energy Management Using Noncooperative Scheduling in Smart Grid
+185,Cryptography-Based Misbehavior Detection and Trust Control Mechanism for Opportunistic Network Systems
+186,TSCA: A Temporal-Spatial Real-Time Charging Scheduling Algorithm for On-Demand Architecture in Wireless Rechargeable Sensor Networks
+187,Novel Framework of Risk-Aware Virtual Network Embedding in Optical Data Center Networks
+188,Soft-WSN: Software-Defined WSN Management System for IoT Applications
+189,On the Effects of Communication Range Shrinkage of Sensor Nodes in Mobile Wireless Sensor Networks Due to Adverse Environmental Conditions
+190,Local Similarity Imputation Based on Fast Clustering for Incomplete Data in Cyber-Physical Systems
+191,A Collaborative Filtering Recommendation-Based Scheme for WLANs With Differentiated Access Service
+192,Bayesian Cooperative Coalition Game as a Service for RFID-Based Secure QoS Management in Mobile Cloud
+193,Learning Automata-Based Data Aggregation Tree Construction Framework for Cyber-Physical Systems
+194,Improved Dual Authentication and Key Management Techniques in Vehicular Ad Hoc Networks
+195,EnClass: Ensemble-Based Classification Model for Network Anomaly Detection in Massive Datasets
+196,SecHealth: An Efficient Fog Based Sender Initiated Secure Data Transmission of Healthcare Sensors for e-Medical System
+197,Operating Mode Optimization for Nodes of Data Supply Chain
+198,A Hash-Based Distributed Storage Strategy of FlowTables in SDN-IoT Networks
+199,Sensor Cloud Based Measurement to Management System for Precise Irrigation
+200,ProIDS: Probabilistic Data Structures Based Intrusion Detection System for Network Traffic Monitoring
+201,A Greedy Overlap-Based Algorithm for Partial Coverage of Heterogeneous WSNs
+202,CHSEO: An Energy Optimization Approach for Communication in the Internet of Things
+203,Energy-Efficient Prophet-PRoWait-EDR Protocols for Opportunistic Networks
+204,Deadline-constraint services in cloud with heterogeneous servers
+205,Time efficient dynamic threshold-based load balancing technique for Cloud Computing
+206,Application of Deep Learning to Sentiment Analysis for recommender system on cloud
+207,Genetic algorithm and probability based routing protocol for Opportunistic Networks
+208,GATA: GPS-Arduino based Tracking and Alarm system for protection of wildlife animals
+209,An advanced Internet of Thing based Security Alert System for Smart Home
+210,Adaptive and safe presentation strategy of image information on social platform
+211,Synchronized power saving mechanism for WiMAX networks
+212,Monitoring the status of iBeacons with crowd sensing
+213,An efficient learning automata based task offloading in mobile cloud computing environments
+214,Connectivity and coverage in machine-type communications
+215,Learning automata based optimized multipath routingusing leapfrog algorithm for VANETs
+216,QoS prediction method for data supply chain based on context
+217,Supernova and Hypernova Misbehavior Detection Scheme for Opportunistic Networks
+218,Designing and Prototyping Utility Management Using Hybrid Wireless-Wired Network Technologies
+219,Social-Oriented Adaptive Transmission in Opportunistic Internet of Smartphones
+220,Distributed Home Energy Management System With Storage in Smart Grid Using Game Theory
+221,Learning Automata-Based Fault-Tolerant System for Dynamic Autonomous Unmanned Vehicular Networks
+222,3GPP LTE-Advanced Congestion Control Based on MIH Protocol
+223,On Theoretical Modeling of Sensor Cloud: A Paradigm Shift From Wireless Sensor Network
+224,Cooperative radio resources allocation in LTE_A networks within MIH framework: A scheme and simulation analysis
+225,Resource Allocation for Wireless Body Area Networks in Presence of Selfish Agents
+226,Mobility-Aware Flow-Table Implementation in Software-Defined IoT
+227,Learning Automata-Based Channel Reservation Scheme to Enhance QoS in Vehicular Adhoc Networks
+228,Lightweight Authentication Protocol for RFID-Enabled Systems Based on ECC
+229,Efficient Bandwidth Call Admission Control in 3GPP LTE Networks
+230,Learning automata based decision making algorithm for task offloading in mobile cloud
+231,A priority based message forwarding scheme for Opportunistic Networks
+232,A Min-Actor algorithm for connected dominating set formation in WSAN
+233,A distributed coverage optimization and connectivity maintenance strategy based on unknown sensors in WSAN
+234,Secure message communication among vehicles using elliptic curve cryptography in smart cities
+235,Temporal-Correlation-Aware Dynamic Self-Management of Wireless Sensor Networks
+236,Sequential detection and average sample number for cognitive radio with multiple primary transmit power levels
+237,Graph colouring technique for efficient channel allocation in cognitive radio networks
+238,Impact of hardware impairment on spectrum underlay cognitive multiple relays network
+239,Accurate indoor localization with crowd sensing
+240,Flexible call admission control with preemption in LTE networks
+241,Reservation and contention reduced channel access method with effective quality of service for wireless mesh networks
+242,User admission maximization based on ressource allocation in wireless networks
+243,Effects of Wind-Induced Near-Surface Bubble Plumes on the Performance of Underwater Wireless Acoustic Sensor Networks
+244,Multilayered Impact Evaluation Model for Attacking Missions
+245,Mils-Cloud: A Sensor-Cloud-Based Architecture for the Integration of Military Tri-Services Operations and Decision Making
+246,Probability-based controlled flooding in opportunistic networks
+247,Learning Automata-Based Cross Layer Framework with Context Awareness for Wireless Systems
+248,An Adaptive Algorithm for Joint Data Detection and Channel Estimation for Meteor Burst Communications Based on Per-Survivor Processing
+249,A PSNR-Controllable Data Hiding Algorithm Based on LSBs Substitution
+250,Cloud-Based Optimal Energy Forecasting for Enabling Green Smart Grid Communication
+251,Secure and Optimal Routing Protocol for Multi-Hop Cellular Networks
+252,Context-Aware Estimation Approach Based on Participatory Sensing
+253,Markovian Model Based Channel Allocation in Cognitive Radio Networks
+254,A MSCTP-Based Authentication Protocol: MSCTPAP
+255,New Elastic Node Addressing Schemes for Next-Generation Networks
+256,Enhanced MIH Architecture-Aware Radio Resource Management Approach in NGWNs
+257,Performance Evaluation of a Decoupled-Level with QoS-Aware Downlink Scheduling Algorithm for LTE Networks
+258,Playing the Smart Grid Game: Performance Analysis of Intelligent Energy Harvesting and Traffic Flow Forecasting for Plug-In Electric Vehicles
+259,Learning automaton based context oriented middleware architecture for precision agriculture
+260,A new scheme for proactive out of band signaling solution for IP traceback in Wireless Mesh Network
+261,An ID-based Quadratic-Exponentiation Randomized Cryptographic scheme
+262,Energy-efficient connectivity re-establishment in WSN in the presence of dumb nodes
+263,AID: A prototype for Agricultural Intrusion Detection using Wireless Sensor Network
+264,Wormhole prevention using COTA mechanism in position based environment over MANETs
+265,Markov model-based adaptive CAC scheme for 3GPP LTE femtocell networks
+266,Wireless Body Area Networks with varying traffic in epidemic medical emergency situation
+267,A Reinforcement learning-based cognitive MAC protocol
+268,All-in-one binary word solution for IP traceback in Wireless Mesh Network
+269,Smart-Evac: Big Data-Based Decision Making for Emergency Evacuation
+270,A PKI Adapted Model for Secure Information Dissemination in Industrial Control and Automation 6LoWPANs
+271,Performance Analysis of IEEE 802.15.6 MAC Protocol under Non-Ideal Channel Conditions and Saturated Traffic Regime
+272,Coalition Games for Spatio-Temporal Big Data in Internet of Vehicles Environment: A Comparative Analysis
+273,A Robust Reputation-Based Computational Model for Trust Establishment in Pervasive Systems
+274,Collaborative Learning Automata-Based Routing for Rescue Operations in Dense Urban Regions Using Vehicular Sensor Networks
+275,MR-Chord: Improved Chord Lookup Performance in Structured Mobile P2P Networks
+276,A Distributed Adaptive Admission Control Scheme for Multimedia Wireless Mesh Networks
+277,Safety Challenges and Solutions in Mobile Social Networks
+278,Efficient medium access control for cyber–physical systems with heterogeneous networks
+279,Improved secure Neighbor Discovery Protocol (ISEND) for new wireless networks generations
+280,A SCTP-based authentication protocol: SCTPAP
+281,Prioritized payload tuning mechanism for wireless body area network-based healthcare systems
+282,On forecasting the ONU sleep period in XG-PON systems using exponential smoothing techniques
+283,Call admission control and adaptive bandwidth management approach for HWNs
+284,Analysis of reliability and throughput under saturation condition of IEEE 802.15.6 CSMA/CA for wireless body area networks
+285,Energy-efficient smart metering for green smart grid communication
+286,Networks of learning automata for the vehicular environment: a performance analysis study
+287,A lightweight mutual authentication mechanism for improving fast PMIPV6-based network mobility scheme
+288,Power and Delay-Aware Routing Protocol for Ad Hoc Networks
+289,Secure micro mobility protocol for new generation wireless network
+290,Secure macro mobility protocol for new generation access network
+291,A cluster-based load balancing algorithm in cloud computing
+292,Optimized MIH-assisted P-NEMO design for vertical handover over heterogeneous network mobility
+293,Honeypots deployment for the analysis and visualization of malware activity and malicious connections
+294,Optimizing handover decision and target selection in LTE-A network-based on MIH protocol
+295,Routing as a Bayesian Coalition Game in Smart Grid Neighborhood Area Networks: Learning Automata-based approach
+296,A novel vertical handoff decision making algorithm across Heterogeneous Wireless Networks
+297,Power and Delay-aware Multi-Path Routing Protocol for Ad Hoc Networks
+298,Context-aware quality of service in wireless sensor networks
+299,Learning Automata-Based QoS Framework for Cloud IaaS
+300,QoS-Guaranteed Bandwidth Shifting and Redistribution in Mobile Cloud Environment
+301,Vehicular Security Through Reputation and Plausibility Checks
+302,Capacity analysis of heterogeneous wireless networks under SINR interference constraints
+303,Re-authentication protocol from WLAN to LTE (ReP WLAN-LTE)
+304,Learning Automata Based Sentiment Analysis for recommender system on cloud
+305,A timed and secured monitoring implementation against wormhole attacks in AODV-based Mobile Ad Hoc Networks
+306,Enhanced handover architecture in IEEE 802.21-enabled heterogeneous wireless networks
+307,Secure and integrated handover authentication scheme with FMIPv6
+308,A joint call admission control-based approach for initial RAT selection in HetNets
+309,Residential Energy Management in Smart Grid: A Markov Decision Process-Based Approach
+310,MOCLO: A Cloud Framework for Mobile Devices
+311,Trust-based Security Protocol against blackhole attacks in opportunistic networks
+312,An ant-swarm inspired energy-efficient ad hoc on-demand routing protocol for mobile ad hoc networks
+313,A fault-tolerant routing protocol for dynamic autonomous unmanned vehicular networks
+314,End-to-end delay distribution in wireless heterogeneous networks
+315,A web-based integrated environment for simulation and analysis with NS-2
+316,Biometric Authentication Using Mouse Gesture Dynamics
+317,Learning automata as a utility for power management in smart grids
+318,Community detection in an integrated Internet of Things and social network architecture
+319,A novel medium access Control Protocol for radio-over-fiber access networks
+320,GROOV: A geographic routing over VANETs and its performance evaluation
+321,Combining Mouse and Keystroke Dynamics Biometrics for Risk-Based Authentication in Web Environments
+322,Design of an effective QoS-aware mapping scheme using persistent allocation probing
+323,Traffic optimization through information dissemination
+324,Trust-enhanced message security protocol for mobile ad hoc networks
+325,Power-controlled reduction of exposed terminals in ad-hoc wireless LANs
+326,Detecting blackhole attacks on DSR-based mobile ad hoc networks
+327,Preventing packet dropping and message tampering attacks on AODV-based Mobile Ad Hoc Networks
+328,An adaptive learning approach for fault-tolerant routing in Internet of Things
+329,Feedback Suppression in Multicast Satellite Networks Using Game Theory
+330,Dynamic Sample Size Detection in Learning Command Line Sequence for Continuous Authentication
+331,Computational intelligence applied to wildfire prediction using wireless sensor networks
+332,QoS-aware multipath routing protocol for delay sensitive applications in MANETs A cross-layer approach
+333,Application of Ant Colony Optimization to develop Energy efficient protocol in mobile Ad-Hoc Networks
+334,Design and Implementation of a Fault Tolerant Multiple Master Cloud Computing System
+335,Time Stamp-Based Algorithm for Task Scheduling in a Distributed Computing System with Multiple Master Multiple Slave Architecture
+336,A Learning Automata Based Solution for Preventing Distributed Denial of Service in Internet of Things
+337,ServiceChord: A Scalable Service Capability Interaction Framework for IMS
+338,Multi-Path Trust-Based Secure AOMDV Routing in Ad Hoc Networks
+339,Optimizing Energy through Parabola Based Routing in Underwater Sensor Networks
+340,Message Security in Multi-Path Ad Hoc Networks Using a Neural Network-Based Cipher
+341,Keynote 1
+342,A Novel Multipath Routing Protocol for MANETs
+343,Fire monitoring in coal mines using Wireless Sensor Networks
+344,Adaptive wireless networks using learning automata
+345,Synchronization of multihop wireless sensor networks at the application layer
+346,FACES: Friend-Based Ad Hoc Routing Using Challenges to Establish Security in MANETs Systems
+347,Network layer based secure routing protocol for wireless ad hoc sensor networks in urban environments
+348,Detection of Identity-Based Attacks in Wireless Sensor Networks Using Signalprints
+349,GreenCom 2010 Keynote Speech: Mohammad S. Obaidat
+350,An Efficient and Secure Routing Protocol for Wireless Sensor Networks Using Multicasting
+351,A cluster-head selection algorithm for Wireless Sensor Networks
+352,A reactive Optimized Link State Routing protocol for Mobile ad hoc networks
+353,A mechanism for reducing congestion while routing bulky data in Mobile Ad Hoc Networks
+354,Securing vehicular networks: A reputation and plausibility checks-based approach
+355,Energy efficient routing for wireless sensor networks in urban environments
+356,A Novel Adaptive Mapping Scheme for IEEE 802.16 Mobile Downlink Framing
+357,UML-based performance modeling of distributed software systems
+358,Friend-based secure routing through challenges in mobile ad hoc networks
+359,Performance analysis of distributed software systems: A model-driven approach
+360,A novel Geocast technique with hole detection in underwater sensor networks
+361,Predictive multi-hop stable routing in Vehicular Ad Hoc Networks
+362,Efficient Cooperative Caching with Improved Performance in Wireless Mesh Networks
+363,A new approach to the design of MAC protocols for WDM-EPONs
+364,IGFS: A New MAC Protocol Exploiting Heterogeneous Propagation Delays in the Dynamic Bandwidth Allocation on WDM-EPON
+365,A Counter Disassociation Mechanism (CDM) for Wireless LANs and its Performance Simulation Analysis
+366,Random Early Detection for Congestion Avoidance in Wired Networks: A Discretized Pursuit Learning-Automata-Like Solution
+367,Virtual Backoff Algorithm: An Enhancement to 802.11 Medium-Access Control to Improve the Performance of Wireless Networks
+368,Cross-Layer Based Data Management in Mobile Ad Hoc Networks
+369,Optimizing Power Utilization in Vehicular Ad Hoc Networks through Angular Routing: A Protocol and Its Performance Evaluation
+370,Efficient Resource Reservation for Optical Burst Switching Networks
+371,Fairness and throughput optimization in wireless mesh networks
+372,Trust management in opportunistic pervasive healthcare systems
+373,Clustering-Driven Wireless Data Broadcasting
+374,Efficient data acquisition in underwater wireless sensor Ad Hoc networks
+375,Chinese Remainder Theorem-Based RSA-Threshold Cryptography in MANET Using Verifiable Secret Sharing Scheme
+376,Cluster-Based Cross-Layer Design for Cooperative Caching in Mobile Ad Hoc Networks
+377,A Fuzzy logic-based Energy Efficient Packet Loss Preventive Routing Protocol
+378,Using Ant-Like Agents for Fault-Tolerant Routing in Mobile Ad-Hoc Networks
+379,On Increasing Information Availability in Gnutella-Like Peer-to-Peer Networks
+380,An Energy-Aware Routing Protocol for Ad-Hoc Networks Based on the Foraging Behavior in Ant Swarms
+381,Adaptive learning solution for congestion avoidance in wireless sensor networks
+382,A quality of service scheduling technique for optical LANs
+383,An adaptive learning-like solution of random early detection for congestion avoidance in computer networks
+384,An efficient 802.11 medium access control method and its simulation analysis
+385,A new counter disassociation mechanism (CDM) for 802.11b/g wireless local area networks
+386,Simulating Peer-to-Peer networks
+387,Lacas: learning automata-based congestion avoidance scheme for healthcare wireless sensor networks
+388,Improving TCP QoS over OBS networks: A scheme based on optical segment retransmission
+389,A real-time TCP management scheme over OLS networks
+390,Supporting Quality-of-Service Scheduling in a TT-FR WDM System
+391,Multi-Hop Synchronization at the Application Layer of Wireless and Satellite Networks
+392,An Energy-Efficient On-Demand Routing algorithm for Mobile Ad-Hoc Networks
+393,AER filtering using GLIDER: VHDL cellular automata description
+394,QDV: A Quality-of-Security-Based Distance Vector Routing Protocol for Wireless Sensor Networks Using Ant Colony Optimization
+395,Intrusion Detection in Wireless Sensor Networks: The S-Model Learning Automata Approach
+396,Node Stability-Based Location Updating in Mobile Ad-Hoc Networks
+397,An Efficient Approach for Location Updating in Mobile Ad Hoc Networks
+398,Bandwidth-Effective Design of a Satellite-Based Hybrid Wireless Sensor Network for Mobile Target Detection and Tracking
+399,Medium access control protocols for wireless LANs [Guest Editorial]
+400,Robust Watermarking System Using Security Enhancement on Content Based Image Segmentation
+401,Trends and Challenges in Wireless Systems
+402,Radio-based Cooperation Scheme for DDoS Detection
+403,A Real-Time Admission Control and Planning of OLS Networks
+404,Location Management in Wireless Fourth Generation Networks
+405,Radio-Based Cooperation for Wireless Intrusion Detection
+406,A Dynamic QoS-Based Scheme for Admission Control in OBS Networks
+407,A QoS-Based Scheme for Planning and Dimensioning of Optical Label Switched Networks
+408,Security Enhancement for Watermarking Technique Using Content based Image Segmentation
+409,A Novel Scheme for Traffic Monitoring in Optical Burst-Switched Networks
+410,Congestion Avoidance Mechanism for Optical Label Switched Networks: A Dynamic QoS-based Approach
+411,A QoS-Oriented Protocol for Burst Admission Control in OBS Networks
+412,Admission Control in Optical Label Switched Networks: A Dynamic QoS-Based Approach
+413,Security Enhancement of Multimedia Copyright Protection
+414,Secured and Seamless Handoff in Wireless Fourth Generation Systems
+415,SAT05-2: Designing a Wireless Sensor Network for Mobile Target Localization and Tracking
+416,WSN08-1: Performance Acceleration of Adaptive Wireless Data Broadcasting System for High Data Rate Environments
+417,"A new scheme for mobility, sensing, and security management in wireless ad hoc sensor networks"
+418,A watermarking technique for geometric manipulation attacks
+419,An advance dynamic resource reservation algorithm for OBS networks: Design and performance
+420,On regional performance improvement of an adaptive wireless push system in environments with locality of demand
+421,Mobility and security issues in wireless ad-hoc sensor networks
+422,Fault and intrusion tolerance in wireless ad hoc networks
+423,On carrier-sense integration in learning automata-based MAC protocols for ad-hoc wireless LANs
+424,A neural approach to adaptive MAC protocols for wireless LANs
+425,SNR-WPA: an adaptive protocol for mobile 802.11 wireless LANs
+426,Intelligent agents on the Web: a review
+427,Adaptive distributed bus arbitration schemes for shared-medium ATM switches
+428,On the use of population-based incremental learning in the medium access control of broadcast communication systems
+429,Admission control and resource management of uncertain duration traffic in optical networks
+430,Resource management schemes in optical networks
+431,On the use of genetic algorithms in the medium access control of broadcast communication networks
+432,Digital watermarking-based DCT and JPEG model
+433,Content-based image segmentation
+434,On the use of learning automata in the control of broadcast networks: a methodology
+435,Learning automata-based bus arbitration for shared-medium ATM switches
+436,Quality of service provision in high-speed networks: an active approach
+437,Performance evaluation of a TDMA-based randomly addressed polling protocol for wireless LANs
+438,3G wireless systems and beyond: a review
+439,A new protocol for wireless LANs
+440,Adaptive QoS schemes in DWDM networks
+441,Adaptive protocols for single-hop photonic networks with bursty traffic
+442,Supporting adaptive QoS for multiple classes of service in DWDM networks
+443,On the digital watermarking in JPEG 2000
+444,A learning automata-based bus arbitration scheme for scalable shared-medium ATM switches
+445,Real time TCP QoS monitoring in wireless ATM CDMA networks using aggregative large deviation principle
+446,Adaptive bandwidth allocation schemes for lightwave LANs with asymmetric traffic
+447,QoS routing with wavelengths conversion and call admission connection in DWDM networks
+448,ZOMA: a preemptive deadlock recovery mechanism for fully adaptive routing in wormhole networks
+449,Fast learning automata for high-speed real-time applications
+450,A robust digital watermarking technique
+451,QoS management in wireless ATM networks using large deviation principle
+452,On the dynamic quality of service in wireless computing environments
+453,A new deadlock recovery mechanism for fully adaptive routing algorithms
+454,KORA-2: a new cache replacement policy and its performance
+455,Managing traffic in CDMA ATM networks
+456,Performance analysis of intelligent mobile ATM networks
+457,Estimating neural networks-based algorithm for adaptive cache replacement
+458,Estimation of error blocks in SDH networks
+459,Dynamic resource allocation in ATM networks
+460,Optimum design of telecommunication systems
+461,A dynamic self-healing routing strategy for ATM networks
+462,A scheme to determine buffer capacity for SDH multiplexing
+463,Verification of computer users using keystroke dynamics
+464,Hypermedia systems: an approach to reduce network latency and server load
+465,Performance analysis of parallel frame synchronization scheme in SDH systems
+466,Wavelet algorithm for the estimation of pitch period of speech signal
+467,Performance evaluation of a new cache replacement scheme using SPEC
+468,155.52 Mbits/s parallel frame synchronous scheme for SDH networks
+469,A performance evaluation methodology for computer systems
+470,A microcomputer-based video-pattern generator for binocular vision test
+471,A multilayer neural network system for computer access security
+472,A methodology for partitioning long local computer networks
+473,On the characterization of ultrasonic transducers using pattern recognition
+474,An online neural network system for computer access security
+475,Computer users verification using the perceptron algorithm
+476,A versatile video pattern generator for vision test
+477,A video pattern generator for vision test
+478,Neural network and pattern recognition techniques for characterizing ultrasonic transducers
+479,Methodologies for characterizing ultrasonic transducers using neural network and pattern recognition techniques
+480,On the performance of neural networks and pattern recognition paradigms for classifying ultrasonic transducers
+481,An evaluation study of traditional and neural network techniques for image processing applications
+482,Dimensionality reduction and feature extraction applications in identifying computer users
+483,A methodology for evaluating the performance of RISC processors
+484,A dynamic and static microcomputer-based stereogram generator
+485,An automated system for characterizing ultrasonic transducers using pattern recognition
+486,A computerized random element stereogram generator: Design and experiments
+487,IEEE Access Special Section Editorial: Artificial Intelligence (AI)-Empowered Intelligent Transportation Systems
+488,Editorial: Special Section on Pervasive Edge Computing for Industrial Internet of Things
+489,Corrections to “A Cooperative Quality-Aware Service Access System for Social Internet of Vehicles”
+490,Adaptive and Learning Systems
+491,Guest Editorial Recent Advances in Global Navigation and Communication Satellite Systems
+492,"Guest editorial learning automata: theory, paradigms, and applications"
+493,"Editorial Artificial Neural Networks To Systems, Man, And Cybernetics: Characteristics, Structures, And Applications"
+494,Fundamentals of wireless networks systems
