@@ -2152,3 +2152,10 @@ DevTools listening on ws://localhost:51697/devtools/browser/166aef23-2b3c-45c7-b
 1648273330759	Marionette	INFO	Stopped listening on port 51702
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648273348038	geckodriver	INFO	Listening on 127.0.0.1:51744
+1648273351081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51745" "-no-remote" "-profile" "C:\\Users\\84981\\AppData\\Local\\Temp\\rust_mozprofileIvbUyN"
+1648273351310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\84981\\AppData\\Local\\Temp\\rust_mozprofileIvbUyN\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
