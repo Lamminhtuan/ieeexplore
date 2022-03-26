@@ -10,7 +10,7 @@ dv.get('https://ieeexplore.ieee.org/author/'+id)
 delay = 15
 time.sleep(delay)
 author = dv.find_element(By.XPATH, '/html/body/div[5]/div/div/div/div[3]/div/xpl-root/div/xpl-search-results/xpl-author-profile/div[1]/div[3]/div[1]/div/div[2]/h1/span[1]').text
-print(f'Author:{author}')
+print(f'Author {author}')
 num = dv.find_element(By.XPATH, '/html/body/div[5]/div/div/div/div[3]/div/xpl-root/div/xpl-search-results/xpl-author-profile/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]').text
 num = int(num)
 pages = num // 25 + 1
